@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zhoutaoq)](https://git.io/streak-stats)
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=zhoutaoq&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+</p>
