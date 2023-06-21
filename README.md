@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p width="80%" >
+  </p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zhoutaoq)](https://git.io/streak-stats)
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=zhoutaoq&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=zhoutaoq&theme=light" alt="JustSong's LeetCode Stats" width="80%" />
 </p>
