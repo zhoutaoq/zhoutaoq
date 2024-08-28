@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoutaoq)](https://github.com/anuraghazra/github-readme-stats)
 
 ![zhoutaoq's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq&layout=compact&hide_border=true&langs_count=10)
-
-### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,vue,c)](https://skillicons.dev)
 
 
