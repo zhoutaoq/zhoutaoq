@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ![zhoutaoq's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq&layout=compact&hide_border=true&langs_count=10)
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,sql,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,vue,c)](https://skillicons.dev)
 
 
