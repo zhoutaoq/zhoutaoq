@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently live in Shanghai, China
 - 🌱 I’m currently learning java、javascript、vue、python ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zhoutaoq)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoutaoq)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoutaoq)](https://github.com/anuraghazra/github-readme-stats)
 ![zhoutaoq's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq&layout=compact&hide_border=true&langs_count=10)
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,vue,c)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,go,git,spring,fastapi,jquery,linux,mysql,nginx,docker,k8s,elasticsearch,rocket,kafka,rabbitmq)](https://skillicons.dev)
+
 
 
