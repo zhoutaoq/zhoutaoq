@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **zhoutaoq**, a passionate developer based in Shanghai, China 🇨🇳
+I'm **Zhoutaoq**, a passionate developer based in Shanghai, China 🇨🇳
 
 ---
 
