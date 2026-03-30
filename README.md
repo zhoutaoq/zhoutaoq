@@ -18,8 +18,8 @@
 - 🔭 I’m currently live in Shanghai, China
 - 🌱 I’m currently learning java、javascript、vue、python ...
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoutaoq)](https://github.com/anuraghazra/github-readme-stats)
-![zhoutaoq's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq&layout=compact&hide_border=true&langs_count=10)
+[![Zhoutaoq's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoutaoq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,go,git,spring,fastapi,jquery,linux,mysql,nginx,docker,k8s,elasticsearch,rocket,kafka,rabbitmq)](https://skillicons.dev)
 
