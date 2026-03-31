@@ -18,10 +18,10 @@ I'm **Zhoutaoq**, a passionate developer based in Shanghai, China 🇨🇳
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=zhoutaoq&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=zhoutaoq&show_icons=true&theme=github_dark&cache_seconds=86400" alt="GitHub Stats" height="150"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoutaoq&layout=compact&theme=github_dark&cache_seconds=86400" alt="Top Languages" height="150"/>
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ I'm **Zhoutaoq**, a passionate developer based in Shanghai, China 🇨🇳
 ### 🏆 Achievement Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhoutaoq&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophy Stats" height="200"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zhoutaoq&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_seconds=86400" alt="Trophy Stats" height="200"/>
 </p>
 
 ### 📈 Activity Graph
